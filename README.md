@@ -23,7 +23,9 @@ Using the app is as easy as 1, 2, 3:
 
 
 ## Preview
-![image](https://github.com/user-attachments/assets/361cee11-0229-480e-a117-965f83c2c18f)
+![[light_ui_screenshot](https://github.com/user-attachments/assets/361cee11-0229-480e-a117-965f83c2c18f)](https://github.com/Gowthamchand5102/language_translator_usingJS/blob/main/images/light_ui_screenshot.png)
+![[dark_ui_screenshot](images/example-image.png "Optional Title")](https://github.com/Gowthamchand5102/language_translator_usingJS/blob/main/images/dark_ui_screenshot.png)
+
 
 
 ## Built With
